@@ -1,1 +1,9 @@
-[{"author":"Jane Austen","title":"Pride and Prejudice","reviews":{}}]
+{
+  "booksbytitle": [
+    {
+        "isbn": "3",
+        "author": "Dante Alighieri",
+        "reviews": {}
+    }
+  ]
+}
